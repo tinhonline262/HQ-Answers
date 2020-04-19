@@ -97,4 +97,4 @@ class MyClient(discord.Client):
 
 if __name__ == '__main__':
     client = MyClient()
-    client.run(config.DISCORD_TOKEN)
+    client.run(config.'6XaZQWv5bVucYmgY3lTZr4hYGtu1dlMH')
